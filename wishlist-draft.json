@@ -92,7 +92,7 @@
       "title": "Shelly Wall Display XL",
       "category": "Smart home",
       "variant": "Black",
-      "url": "https://www.shelly.com/products/shelly-wall-display-xl-black?variant=58198242296157",
+      "url": "https://www.netxl.com/controllers-and-hubs/shelly-wall-display-xl-black/",
       "id": "shelly-xl",
       "image": {
         "file": "shelly-xl.webp",
@@ -334,6 +334,246 @@
     {
       "url": "https://www.amazon.co.uk/dp/B0FC5DT82Y/",
       "notes": "Product name and variant unconfirmed."
+    },
+    {
+      "id": "connect-aux-2",
+      "title": "Home Assistant Connect AUX-2",
+      "category": "Smart home",
+      "priceGBP": 61.8,
+      "url": "https://thepihut.com/products/home-assistant-connect-aux-2",
+      "notes": "Adds Music Assistant to my existing hi-fi. Needs an audio cable and either USB-C power or Power over Ethernet.",
+      "image": {
+        "file": "connect-aux-2.webp",
+        "kind": "source",
+        "sourceUrl": "https://thepihut.com/cdn/shop/files/home-assistant-connect-aux-2-home-assistant-107093-1267259455_1000x.jpg?v=1794581017",
+        "fit": "contain"
+      },
+      "priceSource": "https://thepihut.com/products/home-assistant-connect-aux-2"
+    },
+    {
+      "id": "shelly-blu-rc-button-4",
+      "title": "Shelly BLU RC Button 4",
+      "category": "Smart home",
+      "variant": "Bluetooth version",
+      "priceGBP": 11.99,
+      "url": "https://shellystore.co.uk/product/shelly-blu-rc-button-4/",
+      "notes": "Four physical buttons for Music Assistant or Home Assistant scenes.",
+      "image": {
+        "file": "shelly-blu-rc-button-4.webp",
+        "kind": "source",
+        "sourceUrl": "https://shellystore.co.uk/wp-content/uploads/2024/11/Shelly-BLU-RC-button-4_EU-main-image.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://shellystore.co.uk/product/shelly-blu-rc-button-4/"
+    },
+    {
+      "id": "sonoff-zbminil2",
+      "title": "SONOFF ZBMINIL2 smart relay",
+      "category": "Smart home",
+      "variant": "Single-channel Zigbee, no neutral required",
+      "priceGBP": 10.85,
+      "url": "https://sonoff.tech/en-uk/products/sonoff-zbmini-extreme-zigbee-smart-switch-zbminil2",
+      "notes": "Fits behind an existing light switch. Check the wiring and space first. For two gangs, check the MINI DUO-L.",
+      "suggest": false,
+      "image": {
+        "file": "sonoff-zbminil2.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.zigbee2mqtt.io/images/devices/ZBMINIL2.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://sonoff.tech/en-uk/products/sonoff-zbmini-extreme-zigbee-smart-switch-zbminil2"
+    },
+    {
+      "id": "sonoff-snzb-06p24",
+      "title": "SONOFF SNZB-06P24 presence sensor",
+      "category": "Smart home",
+      "variant": "24 GHz Zigbee radar, USB-C power",
+      "priceGBP": 21.79,
+      "url": "https://sonoff.tech/en-uk/products/sonoff-senseguard-presence-core-24ghz-zigbee-human-presence-sensor-snzb-06p24",
+      "notes": "Detects presence while someone is sitting still. Needs a Zigbee network.",
+      "image": {
+        "file": "sonoff-snzb-06p24.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.zigbee2mqtt.io/images/devices/SNZB-06P24.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://sonoff.tech/en-uk/products/sonoff-senseguard-presence-core-24ghz-zigbee-human-presence-sensor-snzb-06p24"
+    },
+    {
+      "id": "espcontrol-guition-4848s040",
+      "title": "EspControl touchscreen",
+      "category": "Smart home",
+      "variant": "4-inch Guition ESP32-S3 4848S040",
+      "priceGBP": 26.17,
+      "url": "https://www.ebay.co.uk/itm/820001900906",
+      "notes": "Choose the ESP32-4848S040 option. The screen needs EspControl firmware and a USB-C data cable for setup.",
+      "image": {
+        "file": "espcontrol-guition-4848s040.webp",
+        "kind": "source",
+        "sourceUrl": "https://jtenniswood.github.io/espcontrol/images/4848s040-hero.jpg",
+        "fit": "contain"
+      },
+      "priceSource": "https://www.ebay.co.uk/itm/820001900906"
+    },
+    {
+      "id": "reflection-frame-ringlet",
+      "title": "Reflection Frame Ringlet",
+      "category": "Desk & tech",
+      "variant": "10-inch, black",
+      "notes": "Colour E Ink frame. The black finish was in stock when checked. UK delivery is calculated by the maker.",
+      "priceGBP": 164,
+      "url": "https://www.reflectionframe.com/products/reflection-frame-white",
+      "image": {
+        "file": "reflection-frame-ringlet.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.reflectionframe.com/cdn/shop/files/AE3A5994.jpg?v=1776582240",
+        "fit": "contain"
+      },
+      "priceSource": "https://www.reflectionframe.com/products/reflection-frame-white"
+    },
+    {
+      "id": "switchbot-ai-art-frame-2",
+      "title": "SwitchBot AI Art Frame 2",
+      "category": "Desk & tech",
+      "variant": "7.1-inch, one frame",
+      "priceGBP": 179.99,
+      "url": "https://uk.switch-bot.com/products/switchbot-ai-art-frame-2",
+      "notes": "Colour E Ink frame. This is the smaller size.",
+      "image": {
+        "file": "switchbot-ai-art-frame-2.webp",
+        "kind": "source",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0648/2991/5367/files/aiartframe2_EN_MainImages_1600x1600_03_2x_a7ac3d7b-cf92-406e-a2da-a481182bbc7d.jpg?v=1792750033",
+        "fit": "contain"
+      },
+      "priceSource": "https://uk.switch-bot.com/products/switchbot-ai-art-frame-2"
+    },
+    {
+      "id": "seeed-reterminal-e1003",
+      "title": "Seeed Studio reTerminal E1003",
+      "category": "Smart home",
+      "variant": "10.3-inch monochrome ePaper touchscreen, 100090602",
+      "priceGBP": 147.6,
+      "referenceUrl": "https://uk.robotshop.com/products/seeedstudio-reterminal-e1003-103-monochrome-epaper-display",
+      "notes": "RobotShop is waiting for stock. This is the E1003 touch model.",
+      "suggest": false,
+      "image": {
+        "file": "seeed-reterminal-e1003.webp",
+        "kind": "source",
+        "sourceUrl": "https://smarthomeshopuk.com/wp-content/uploads/2026/05/reterminal-e1003-front.webp",
+        "fit": "contain"
+      },
+      "priceSource": "https://uk.robotshop.com/products/seeedstudio-reterminal-e1003-103-monochrome-epaper-display"
+    },
+    {
+      "id": "wolfbox-mf50",
+      "title": "Wolfbox MF50 cordless air duster",
+      "category": "Desk & tech",
+      "priceGBP": 39.99,
+      "url": "https://www.avrmobiles.co.uk/product/wolfbox-mf50-electric-air-duster/",
+      "notes": "Small rechargeable blower for cleaning keyboards and computer vents.",
+      "image": {
+        "file": "wolfbox-mf50.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.avrmobiles.co.uk/wp-content/uploads/2025/12/WOLFBOX-MF50-Electric-Air-Duster-1.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://www.avrmobiles.co.uk/product/wolfbox-mf50-electric-air-duster/"
+    },
+    {
+      "id": "housewaves-astound-two",
+      "title": "HouseWaves Astound-Two",
+      "category": "Smart home",
+      "variant": "Active bookshelf speaker for Music Assistant",
+      "referenceUrl": "https://gethousewaves.com/hw-astound-two",
+      "notes": "Pre-release. UK price and ordering are still to be confirmed.",
+      "suggest": false,
+      "image": {
+        "file": "housewaves-astound-two.webp",
+        "kind": "source",
+        "sourceUrl": "https://gethousewaves.com/images/housewaves-astound-two-front-angle-active-crossover-dsp-bookshelf-speaker.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "aqara-floor-lamp-t1",
+      "title": "Aqara Floor Lamp T1",
+      "category": "Smart home",
+      "variant": "LB-L18D",
+      "priceGBP": 99.98,
+      "url": "https://www.smart-secure.co.uk/product/aqara-floor-lamp-t1/",
+      "notes": "Colour floor lamp with Zigbee and Matter over Thread.",
+      "image": {
+        "file": "aqara-floor-lamp-t1.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.smart-secure.co.uk/wp-content/uploads/sites/3/2026/11/retail-with-product-scaled-1.jpg",
+        "fit": "contain"
+      },
+      "priceSource": "https://www.smart-secure.co.uk/product/aqara-floor-lamp-t1/"
+    },
+    {
+      "id": "shelly-plus-plug-uk",
+      "title": "Shelly Plus Plug UK",
+      "category": "Smart home",
+      "variant": "UK three-pin Wi-Fi plug",
+      "priceGBP": 16.99,
+      "url": "https://shellystore.co.uk/product/shelly-plus-plug-uk/",
+      "notes": "Power and energy readings for one plug-in appliance.",
+      "image": {
+        "file": "shelly-plus-plug-uk.webp",
+        "kind": "source",
+        "sourceUrl": "https://shellystore.co.uk/wp-content/uploads/2023/05/Shelly_Plus_PlugUK_x1-625x625-1.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://shellystore.co.uk/product/shelly-plus-plug-uk/"
+    },
+    {
+      "id": "shelly-em-gen4",
+      "title": "Shelly EM Gen4",
+      "category": "Smart home",
+      "variant": "Includes a 50 A clamp",
+      "priceGBP": 49.99,
+      "url": "https://shellystore.co.uk/product/shelly-em-gen4/",
+      "notes": "Clamp meter for circuit or grid monitoring. Have an electrician confirm the clamp size and fit it.",
+      "suggest": false,
+      "image": {
+        "file": "shelly-em-gen4.webp",
+        "kind": "source",
+        "sourceUrl": "https://shellystore.co.uk/wp-content/uploads/2026/07/Shelly-EM-Gen4_main-image_9e52493f-b7be-457b-8f5e-fa3161edd772.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://shellystore.co.uk/product/shelly-em-gen4/"
+    },
+    {
+      "id": "shelly-wall-display-x1i",
+      "title": "Shelly Wall Display X1i",
+      "category": "Smart home",
+      "variant": "4-inch, black",
+      "priceGBP": 134.99,
+      "url": "https://shellystore.co.uk/product/shelly-wall-display-x1i-black/",
+      "notes": "Compact alternative to the Wall Display XL. Can run on USB-C for a trial setup.",
+      "image": {
+        "file": "shelly-wall-display-x1i.webp",
+        "kind": "source",
+        "sourceUrl": "https://shellystore.co.uk/wp-content/uploads/2026/10/Shelly-Wall-Display-X1i-Black-Main-325.png",
+        "fit": "contain"
+      },
+      "priceSource": "https://shellystore.co.uk/product/shelly-wall-display-x1i-black/"
+    },
+    {
+      "id": "shelly-presence-gen4",
+      "title": "Shelly Presence Gen4",
+      "category": "Smart home",
+      "variant": "White, USB-C power",
+      "priceGBP": 61.88,
+      "url": "https://thepihut.com/products/shelly-presence-gen4",
+      "notes": "Alternative to the SONOFF sensor for a room with separate areas such as a desk and sofa.",
+      "image": {
+        "file": "shelly-presence-gen4.webp",
+        "kind": "source",
+        "sourceUrl": "https://thepihut.com/cdn/shop/files/shelly-presence-gen4-shelly-106739-1256809290_900x.jpg?v=1788367812",
+        "fit": "contain"
+      },
+      "priceSource": "https://thepihut.com/products/shelly-presence-gen4"
     }
   ]
 }
