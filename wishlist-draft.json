@@ -739,6 +739,103 @@
         "sourceUrl": "https://m.media-amazon.com/images/I/81Tgn7OoPEL._AC_SL1500_.jpg",
         "fit": "contain"
       }
+    },
+    {
+      "id": "axminster-callipers",
+      "title": "Axminster digital callipers",
+      "category": "Workshop",
+      "variant": "150 mm, stainless steel",
+      "notes": "For measuring parts and checking the fit of my 3D prints.",
+      "priceGBP": 27.98,
+      "url": "https://www.axminstertools.com/products/axminster-digital-electronic-calipers",
+      "priceSource": "https://www.axminstertools.com/products/axminster-digital-electronic-calipers",
+      "image": {
+        "file": "axminster-callipers.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.axminstertools.com/cdn/shop/files/388005_xl.jpg?v=1789755299",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "red-rising",
+      "title": "Red Rising by Pierce Brown",
+      "category": "Books",
+      "variant": "Book one, UK paperback",
+      "priceGBP": 10.44,
+      "url": "https://uk.bookshop.org/p/books/red-rising-pierce-brown/e2c3268d29f0c1f5?ean=9781444758993",
+      "priceSource": "https://uk.bookshop.org/p/books/red-rising-pierce-brown/e2c3268d29f0c1f5?ean=9781444758993",
+      "image": {
+        "file": "red-rising.webp",
+        "kind": "source",
+        "sourceUrl": "https://images-eu.bookshop.org/images/9781444758993.jpg?v=9579404dc0586d59c9b7b89a14859eda&width=600",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "leica-disto-d1",
+      "title": "Leica DISTO D1 laser measure",
+      "category": "Workshop",
+      "variant": "40 m range with Bluetooth",
+      "notes": "For checking wall lengths and diagonals against my room models in Blender.",
+      "priceGBP": 82.8,
+      "url": "https://www.leicadisto.co.uk/shop/leica-disto-d1/",
+      "priceSource": "https://www.leicadisto.co.uk/shop/leica-disto-d1/",
+      "image": {
+        "file": "leica-disto-d1.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.leicadisto.co.uk/wp-content/uploads/2016/10/leica-disto-d1.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "bambu-lab-s1",
+      "title": "Bambu Lab S1 3D scanner",
+      "category": "Workshop",
+      "variant": "Handheld scanner",
+      "notes": "I’d love to scan real objects to model and print. Bambu Scan needs a compatible Windows PC at launch.",
+      "priceGBP": 1399,
+      "url": "https://uk.store.bambulab.com/products/s1",
+      "suggest": false,
+      "priceSource": "https://uk.store.bambulab.com/products/s1",
+      "image": {
+        "file": "bambu-lab-s1.webp",
+        "kind": "source",
+        "sourceUrl": "https://store.bblcdn.eu/s4/default/47449a8a19e54d288c744a60bd56066e/1-4-compressed.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "meraki-gen-2",
+      "title": "Meraki Gen 2 espresso machine",
+      "category": "Silly things",
+      "variant": "Dual boiler with built-in grinder and scales",
+      "notes": "My dream coffee machine. A very silly splurge.",
+      "priceGBP": 1599,
+      "url": "https://bellabarista.co.uk/products/meraki-espresso-machine-gen2",
+      "suggest": false,
+      "priceSource": "https://bellabarista.co.uk/products/meraki-espresso-machine-gen2",
+      "image": {
+        "file": "meraki-gen-2.webp",
+        "kind": "source",
+        "sourceUrl": "https://bellabarista.co.uk/cdn/shop/files/Gen2Black2.jpg?v=1775751482&width=1500",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "seletti-bic-lamp",
+      "title": "Seletti × BIC Cristal pen lamp",
+      "category": "Silly things",
+      "variant": "178 cm, UK plug",
+      "notes": "The giant BIC pen I liked at the art installation. Ask me about the colour first.",
+      "priceGBP": 275,
+      "url": "https://joy-of-living.uk/products/seletti-bic-lamp",
+      "suggest": false,
+      "priceSource": "https://joy-of-living.uk/products/seletti-bic-lamp",
+      "image": {
+        "file": "seletti-bic-lamp.webp",
+        "kind": "source",
+        "sourceUrl": "https://joy-of-living.uk/cdn/shop/files/Bic-Lamp-Lifestyle-4_300x_jpg_6be8d01c-4b28-427f-888d-f655069dce81.avif?v=1787824210&width=300"
+      }
     }
   ]
 }
