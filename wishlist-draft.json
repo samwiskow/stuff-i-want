@@ -675,6 +675,38 @@
         "sourceUrl": "https://www.toolstoreuk.co.uk/images/products/large/22398_241951.jpg",
         "fit": "contain"
       }
+    },
+    {
+      "title": "Panasonic Eneloop AA rechargeable batteries",
+      "category": "Rechargeable batteries",
+      "variant": "Four-pack, 2000 mAh, 1.2 V NiMH",
+      "url": "https://www.buyabattery.co.uk/panasonic-eneloop-aa-2000mah-rechargeable-batteries-4-pack.html",
+      "priceGBP": 11.48,
+      "notes": "I use these regularly and I’m always happy to get more.",
+      "priceSource": "https://www.buyabattery.co.uk/panasonic-eneloop-aa-2000mah-rechargeable-batteries-4-pack.html",
+      "id": "eneloop-aa-4-pack",
+      "image": {
+        "file": "eneloop-aa-4-pack.webp",
+        "kind": "source",
+        "sourceUrl": "https://maisondespiles.com/1720-large_default/4-piles-rechargeables-panasonic-eneloop-bk-3mcde-2000mah-aa-hr6.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Panasonic Eneloop AAA rechargeable batteries",
+      "category": "Rechargeable batteries",
+      "variant": "Four-pack, 800 mAh, 1.2 V NiMH",
+      "url": "https://www.buyabattery.co.uk/panasonic-eneloop-aaa-800mah-rechargeable-batteries-4-pack.html",
+      "priceGBP": 8.95,
+      "notes": "I use these regularly and I’m always happy to get more.",
+      "priceSource": "https://www.buyabattery.co.uk/panasonic-eneloop-aaa-800mah-rechargeable-batteries-4-pack.html",
+      "id": "eneloop-aaa-4-pack",
+      "image": {
+        "file": "eneloop-aaa-4-pack.webp",
+        "kind": "source",
+        "sourceUrl": "https://media.distrelec.com/Web/WebShopImages/landscape_large/9-/01/Panasonic-Eneloop-30326039-01.jpg",
+        "fit": "contain"
+      }
     }
   ]
 }
