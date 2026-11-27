@@ -95,6 +95,7 @@ const markup = `<!doctype html>
     <p>Ideas for birthdays, Christmas and just because.</p>
   </header>
   ${controls}
+  <p class="shopping-note">Prices are a guide. Links are just suggestions to stores. Compare prices and delivery costs before buying.</p>
   <div id="gift-suggestion" class="gift-suggestion" aria-live="polite"></div>
   <section class="feature-gallery" aria-label="Featured wishlist items">
     ${featured.map(featuredCard).join('')}
@@ -102,7 +103,6 @@ const markup = `<!doctype html>
   <div id="results-info" class="results-info" role="status"></div>
   <div id="gift-shelves">${[...shelves].map(([category, entries]) => shelf(category, entries)).join('')}</div>
   <div class="empty-results" hidden><h2>No matching gifts</h2><p>Try another search, category or budget.</p><button type="button" id="clear-filters">Clear filters</button></div>
-  <footer>Prices are a guide. Check the shop before buying.</footer>
 </main>
 </body>
 </html>

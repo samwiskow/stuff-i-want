@@ -44,6 +44,7 @@ a:hover { color: var(--forest); }
   gap: .65rem;
   align-items: end;
 }
+.shopping-note { margin: 0 0 1rem; color: var(--muted); font-size: .875rem; }
 .gift-filters label { display: grid; gap: .22rem; min-width: 0; }
 .gift-filters label > span { font-size: .875rem; font-weight: 700; color: var(--muted); }
 input, select, button {
@@ -170,7 +171,6 @@ button { cursor: pointer; }
 .suggestion-detail .price { margin: .28rem 0 0; }
 .empty-results { border-block-start: 1px solid var(--line); padding-block: 1.2rem; }
 .empty-results p { margin-block: .35rem .7rem; color: var(--muted); }
-footer { color: var(--muted); border-block-start: 1px solid var(--line); margin-top: 2rem; padding-top: .8rem; font-size: .875rem; }
 
 @media (max-width: 48rem) {
   .gift-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
