@@ -1,0 +1,339 @@
+{
+  "status": "draft",
+  "currency": "GBP",
+  "items": [
+    {
+      "title": "Normcore puck screen",
+      "category": "Coffee accessories",
+      "variant": "Silver, 53.3 mm diameter, 1.7 mm thick, 150 µm mesh, 316 stainless steel",
+      "source": "Supplied Amazon wishlist screenshot",
+      "id": "puck-screen",
+      "image": {
+        "file": "puck-screen.webp",
+        "kind": "generated",
+        "label": "Generated illustration"
+      },
+      "priceGBP": 10.94,
+      "priceSource": "Supplied Amazon wishlist screenshot",
+      "referenceUrl": "https://www.amazon.co.uk/dp/B09DD6F7M6/"
+    },
+    {
+      "title": "Normcore bottomless portafilter",
+      "category": "Coffee accessories",
+      "variant": "Black, 54 mm for Breville / Sage, with basket",
+      "source": "Supplied Amazon wishlist screenshot",
+      "referenceUrl": "https://www.normcorewares.com/products/normcore-naked-bottomless-portafilter-with-handle",
+      "featured": 2,
+      "id": "portafilter",
+      "image": {
+        "file": "portafilter.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.normcorewares.com/cdn/shop/files/normcore-wares-portafilters-black-54mm-fits-breville-sage-normcore-bottomless-portafilter-with-handle-1247360957.jpg?v=1783190766&width=1000",
+        "fit": "contain"
+      },
+      "priceGBP": 57.44,
+      "priceSource": "Supplied Amazon wishlist screenshot"
+    },
+    {
+      "title": "ThirdReality Presence Sensor R3",
+      "category": "Smart home",
+      "url": "https://thepihut.com/products/thirdreality-zigbee-smart-presence-sensor-r3",
+      "id": "thirdreality-r3",
+      "image": {
+        "file": "thirdreality-r3.webp",
+        "kind": "source",
+        "sourceUrl": "https://thepihut.com/cdn/shop/files/thirdreality-zigbee-smart-presence-sensor-r3-thirdreality-106815-1253516269.jpg?v=1786113972&width=2048",
+        "fit": "contain"
+      },
+      "priceGBP": 47.9,
+      "priceSource": "https://thepihut.com/products/thirdreality-zigbee-smart-presence-sensor-r3",
+      "variant": "Zigbee"
+    },
+    {
+      "title": "More Home Assistant presence sensors",
+      "category": "Smart home",
+      "notes": "Interested in newer models as they become available. Check Home Assistant support before choosing.",
+      "id": "presence-sensors",
+      "image": {
+        "file": "presence-sensors.webp",
+        "kind": "generated",
+        "label": "Generated illustration"
+      },
+      "suggest": false
+    },
+    {
+      "title": "Home Assistant smart buttons",
+      "category": "Smart home",
+      "notes": "For my Home Assistant setup. Model still to choose.",
+      "id": "smart-buttons",
+      "image": {
+        "file": "smart-buttons.webp",
+        "kind": "generated",
+        "label": "Generated illustration"
+      },
+      "suggest": false
+    },
+    {
+      "title": "TRMNL e-paper dashboards",
+      "category": "Smart home",
+      "url": "https://trmnl.com/",
+      "notes": "For my Home Assistant dashboard. Model still to choose.",
+      "featured": 1,
+      "id": "trmnl",
+      "image": {
+        "file": "trmnl.webp",
+        "kind": "source",
+        "sourceUrl": "https://shop.trmnl.com/cdn/shop/files/all.jpg?v=1753901574",
+        "label": "Examples from TRMNL"
+      },
+      "suggest": false
+    },
+    {
+      "title": "Shelly Wall Display XL",
+      "category": "Smart home",
+      "variant": "Black",
+      "url": "https://www.shelly.com/products/shelly-wall-display-xl-black?variant=58198242296157",
+      "id": "shelly-xl",
+      "image": {
+        "file": "shelly-xl.webp",
+        "kind": "source",
+        "sourceUrl": "https://us.shelly.com/cdn/shop/files/Shelly-Wall-Display-XL-main-image-01_3ad82466-72af-4455-b4a6-920e5e98611a.png?v=1767711822",
+        "fit": "contain"
+      },
+      "priceGBP": 231.58,
+      "priceSource": "https://www.netxl.com/controllers-and-hubs/shelly-wall-display-xl-black/"
+    },
+    {
+      "title": "Steam gift card",
+      "category": "Gaming",
+      "url": "https://store.steampowered.com/digitalgiftcards/selectgiftcard?cc=gb&l=english",
+      "notes": "Good gift choice. Amount is flexible.",
+      "id": "steam",
+      "image": {
+        "file": "steam.webp",
+        "kind": "source",
+        "sourceUrl": "https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg"
+      },
+      "amountsGBP": [
+        4,
+        10,
+        25,
+        50,
+        100
+      ],
+      "priceSource": "https://store.steampowered.com/digitalgiftcards/selectgiftcard?cc=gb&l=english"
+    },
+    {
+      "title": "Next Level Racing RC Foldable cockpit",
+      "category": "Gaming",
+      "url": "https://nextlevelracing.com/en-gb/products/rc-f-racing-cockpit-foldable/",
+      "id": "rc-foldable",
+      "image": {
+        "file": "rc-foldable.webp",
+        "kind": "source",
+        "sourceUrl": "https://cdn.nlr.sh/wp-content/uploads/2026/08/rcf-website-gallery-1-1.webp",
+        "fit": "contain"
+      },
+      "priceGBP": 329,
+      "priceSource": "https://nextlevelracing.com/en-gb/products/rc-f-racing-cockpit-foldable/"
+    },
+    {
+      "title": "Quince T-shirts",
+      "category": "Clothing",
+      "referenceUrl": "https://www.quince.com/uk/shop/men/tees/cotton-tees?filters=materials_cotton",
+      "notes": "Style, size and colour to choose.",
+      "id": "quince-tees",
+      "image": {
+        "file": "quince-tees.webp",
+        "kind": "generated",
+        "label": "Generated illustration"
+      },
+      "suggest": false
+    },
+    {
+      "title": "Quince quarter-zips",
+      "category": "Clothing",
+      "referenceUrl": "https://www.quince.com/uk/shop/men",
+      "notes": "Style, size and colour to choose.",
+      "id": "quince-quarter-zips",
+      "image": {
+        "file": "quince-quarter-zips.webp",
+        "kind": "generated",
+        "label": "Generated illustration"
+      },
+      "suggest": false
+    },
+    {
+      "title": "Snow Peak titanium chopsticks",
+      "category": "Kitchen & cookware",
+      "url": "https://www.snowpeak.co.uk/products/titanium-chopsticks?variant=32940296437794",
+      "featured": 3,
+      "id": "chopsticks",
+      "image": {
+        "file": "chopsticks.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.urbanindustry.co.uk/cdn/shop/files/SnowPeak_Titanium_Chopsticks_Titanium_01.jpg?v=1705926141",
+        "fit": "contain"
+      },
+      "priceGBP": 30.95,
+      "priceSource": "https://www.urbanindustry.co.uk/products/snow-peak-titanium-chopsticks-titanium"
+    },
+    {
+      "title": "Hestan NanoBond induction saucier with lid",
+      "category": "Kitchen & cookware",
+      "variant": "20 cm, 1.9 L",
+      "url": "https://hestanculinary.co/collections/titanium-cookware/products/hestan-nanobond-titanium-induction-saucier-lid-20cm-1-9l-copy",
+      "referenceUrl": "https://hestanculinary.co/collections/nanobond",
+      "id": "hestan-saucier",
+      "image": {
+        "file": "hestan-saucier.webp",
+        "kind": "source",
+        "sourceUrl": "https://hestanculinary.co/cdn/shop/files/Square-60045_HES_HN1_2Qt_Cov_Saucier_Main.jpg?v=1770209924",
+        "fit": "contain"
+      },
+      "priceGBP": 350,
+      "priceSource": "https://hestanculinary.co/collections/full-price-items/products/hestan-nanobond-titanium-induction-saucier-lid-20cm-1-9l-copy"
+    },
+    {
+      "title": "Made In Stainless Clad Saucier",
+      "category": "Kitchen & cookware",
+      "url": "https://www.madeincookware.co.uk/products/stainless-clad-saucier?variant=56152536809857",
+      "id": "made-in-saucier",
+      "image": {
+        "file": "made-in-saucier.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.madeincookware.co.uk/cdn/shop/files/Stainless_Saucier_5qt-wLid_Hero_Antique_Brass_HIRES_PRODUCT.jpg?v=1787326201",
+        "fit": "contain"
+      },
+      "priceGBP": 139,
+      "priceSource": "https://www.madeincookware.co.uk/products/stainless-clad-saucier?variant=56152536809857",
+      "variant": "4.7 L, Antique Brass"
+    },
+    {
+      "title": "Misenware mixed food storage set",
+      "category": "Kitchen & cookware",
+      "variant": "18-piece mixed set",
+      "url": "https://misen.com/products/misenware-18-piece-mixed?variant=59664640114769",
+      "id": "misenware",
+      "image": {
+        "file": "misenware.webp",
+        "kind": "source",
+        "sourceUrl": "https://misen.com/cdn/shop/files/Misen2-Web-PDP-Misenware-Set-18-Gallery-1.png?v=1781730973",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Lodge pre-seasoned carbon steel skillet",
+      "category": "Kitchen & cookware",
+      "variant": "10 inch, CRS10",
+      "url": "https://www.amazon.co.uk/dp/B005U93RYC/",
+      "referenceUrl": "https://solefoodkitchen.com/products/lodge-pre-seasoned-carbon-steel-skillet-long-handle-10-inches",
+      "id": "lodge-skillet",
+      "image": {
+        "file": "lodge-skillet.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/31PYB2IvZtL.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Zwilling Twin Pollux Chinese chef’s knife",
+      "category": "Kitchen & cookware",
+      "variant": "18 cm, 30795-180-0",
+      "url": "https://www.amazon.co.uk/dp/B000XFG2QI/",
+      "referenceUrl": "https://www.zwilling.com/uk/zwilling-twin-pollux-18-cm-chinese-chefs-knife-30795-180-0/30795-180-0.html",
+      "id": "zwilling-knife",
+      "image": {
+        "file": "zwilling-knife.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.zwilling.com/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw2660eeaf/images/large/30795-180-0_1.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Nitecore T4K keychain torch",
+      "category": "Gadgets & everyday carry",
+      "url": "https://www.amazon.co.uk/dp/B09HZFZQRF/",
+      "referenceUrl": "https://www.nitecore.com/product/t4k",
+      "id": "nitecore-t4k",
+      "image": {
+        "file": "nitecore-t4k.webp",
+        "kind": "source",
+        "sourceUrl": "https://nitecore.e2ecdn.com/Products/Nitecore-T4K-FL.jpg?w=735&h=735&quality=80&scale=canvas",
+        "fit": "contain"
+      },
+      "priceGBP": 89.95,
+      "priceSource": "https://www.nitecore.co.uk/products/nitecore-t4k.html"
+    },
+    {
+      "title": "SHARGE Disk SSD enclosure",
+      "category": "Desk & tech",
+      "variant": "M.2 2230 NVMe enclosure, yellow",
+      "url": "https://www.amazon.co.uk/dp/B0CFTNMW1W/",
+      "referenceUrl": "https://www.ypc.co.uk/product/sharge-disk-m-2-nvme-ssd-enclosure-with-active-cooling-system-small-external-ssd-case10gbps-usb-c-3-2-gen2-ssd-enclosure-m-key-for-ps5-steamdeck-camera/",
+      "id": "sharge-disk",
+      "image": {
+        "file": "sharge-disk.webp",
+        "kind": "source",
+        "sourceUrl": "https://sharge.com/cdn/shop/files/YellowShargeDisk.png?v=1772714338",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Mastery Mart rollerblade-style chair wheels",
+      "category": "Desk & tech",
+      "url": "https://www.amazon.co.uk/dp/B07V6PSXVN/",
+      "referenceUrl": "https://www.merchantwords.com/page1products/uk/office%20chair%20wheels",
+      "notes": "The rollerblade look is the reason I want them.",
+      "id": "caster-wheels",
+      "image": {
+        "file": "caster-wheels.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/61bFL4mLtZL.jpg",
+        "fit": "contain"
+      },
+      "suggest": false,
+      "variant": "Five black castors with clear single wheels, 11 × 22 mm stems"
+    },
+    {
+      "title": "OXO Good Grips Sweep & Swipe Laptop Cleaner",
+      "category": "Desk & tech",
+      "url": "https://www.amazon.co.uk/dp/B07W1L7TCF/",
+      "referenceUrl": "https://www.oxo.com/shop/cleaning-organization/home-office/oxo-sweep-and-swipe-laptop-cleaner.html",
+      "id": "laptop-cleaner",
+      "image": {
+        "file": "laptop-cleaner.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.oxouk.com/wp-content/uploads/gg_12246100_1_1.jpeg",
+        "fit": "contain"
+      },
+      "priceGBP": 9.35,
+      "priceSource": "https://www.hartsofstur.com/oxo-good-grips-sweep-swipe-laptop-cleaner-12246100uk.html"
+    },
+    {
+      "title": "Ozlo Sleepbuds",
+      "category": "Sleep",
+      "url": "https://ozlosleep.co.uk/products/sleepbuds",
+      "notes": "Generation to confirm.",
+      "id": "ozlo-sleepbuds",
+      "image": {
+        "file": "ozlo-sleepbuds.webp",
+        "kind": "source",
+        "sourceUrl": "https://ozlosleep.co.uk/cdn/shop/files/Frame1000005199_0685de70-2d51-44aa-afb7-3c3a16b3b083.jpg?v=1784921185&width=1000",
+        "fit": "contain",
+        "label": "Sleepbuds 2 shown"
+      },
+      "priceGBP": 209,
+      "priceSource": "https://ozlosleep.co.uk/products/sleepbuds",
+      "suggest": false
+    },
+    {
+      "url": "https://www.amazon.co.uk/dp/B0038Q05I0/",
+      "notes": "Product name and variant unconfirmed."
+    },
+    {
+      "url": "https://www.amazon.co.uk/dp/B0FC5DT82Y/",
+      "notes": "Product name and variant unconfirmed."
+    }
+  ]
+}
