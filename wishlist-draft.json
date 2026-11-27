@@ -328,12 +328,35 @@
       "suggest": false
     },
     {
+      "id": "dick-dl378",
+      "title": "F. Dick DL378 slotted spatula",
+      "category": "Kitchen & cookware",
+      "variant": "5 inch",
       "url": "https://www.amazon.co.uk/dp/B0038Q05I0/",
-      "notes": "Product name and variant unconfirmed."
+      "priceGBP": 43.19,
+      "priceSource": "https://www.amazon.co.uk/dp/B0038Q05I0/",
+      "image": {
+        "file": "dick-dl378.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/51dpq5dppaL._AC_SL1100_.jpg",
+        "fit": "contain"
+      }
     },
     {
+      "id": "nitecore-edc37",
+      "title": "Nitecore EDC37 torch",
+      "category": "Gadgets & everyday carry",
+      "variant": "Black",
       "url": "https://www.amazon.co.uk/dp/B0FC5DT82Y/",
-      "notes": "Product name and variant unconfirmed."
+      "priceGBP": 114.95,
+      "referenceUrl": "https://www.nitecore.co.uk/products/nitecore-edc37.html",
+      "priceSource": "https://www.nitecore.co.uk/products/nitecore-edc37.html",
+      "image": {
+        "file": "nitecore-edc37.webp",
+        "kind": "source",
+        "sourceUrl": "https://nitecore.e2ecdn.com/Products/edc37-0.jpg?w=735&h=735&quality=80&scale=canvas",
+        "fit": "contain"
+      }
     },
     {
       "id": "connect-aux-2",
@@ -557,6 +580,101 @@
         "fit": "contain"
       },
       "priceSource": "https://thepihut.com/products/shelly-presence-gen4"
+    },
+    {
+      "id": "fox-ranger-fire",
+      "title": "Fox Ranger Fire gloves",
+      "category": "Clothing",
+      "variant": "Black, XL",
+      "url": "https://www.biketart.com/products/fox-ranger-fire-gloves?variant=44063880118451",
+      "priceGBP": 33.95,
+      "notes": "For winter garage workouts. I only want one pair. Either these or the Mechanix ColdWork Original in XL.",
+      "priceSource": "https://www.biketart.com/products/fox-ranger-fire-gloves?variant=44063880118451",
+      "image": {
+        "file": "fox-ranger-fire.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.biketart.com/cdn/shop/files/fox-ranger-fire-gloves-black-s-1135475020.webp?v=1753101665",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "mechanix-coldwork-original",
+      "title": "Mechanix ColdWork Original gloves",
+      "category": "Clothing",
+      "variant": "Grey and black, XL",
+      "url": "https://www.gsworkwear.com/products/mechanix-wear-coldwork-original-winter-work-gloves?variant=54398077043073",
+      "priceGBP": 28.79,
+      "notes": "For winter garage workouts. I only want one pair. Either these or the Fox Ranger Fire in XL.",
+      "priceSource": "https://www.gsworkwear.com/products/mechanix-wear-coldwork-original-winter-work-gloves?variant=54398077043073",
+      "image": {
+        "file": "mechanix-coldwork-original.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.gsworkwear.com/cdn/shop/files/lwbmkxfhfsjyydgxnxql.jpg?v=1750150461",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "jetstream-edge",
+      "title": "Uni Jetstream Edge ballpoint pen",
+      "category": "Stationery",
+      "variant": "Prussian blue, 0.38 mm",
+      "url": "https://www.mij.co.uk/products/uni-jetstream-edge-0-38mm-oil-based-pen-prussian-blue",
+      "priceGBP": 13.2,
+      "priceSource": "https://www.mij.co.uk/products/uni-jetstream-edge-0-38mm-oil-based-pen-prussian-blue",
+      "image": {
+        "file": "jetstream-edge.webp",
+        "kind": "source",
+        "sourceUrl": "https://penstore.co.uk/bilder/artiklar/136683.jpg?m=1768385380",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "zento-signature",
+      "title": "Uni-ball Zento Signature gel pen",
+      "category": "Stationery",
+      "variant": "Metallic black, 0.5 mm",
+      "url": "https://wafuu.com/en-gb/products/mitsubishi-pencil-uni-ball-zento-signature-model-pen-05mm-metallic-black",
+      "priceGBP": 35,
+      "notes": "Optional extra. Check delivery costs and any import charges.",
+      "priceSource": "https://wafuu.com/en-gb/products/mitsubishi-pencil-uni-ball-zento-signature-model-pen-05mm-metallic-black",
+      "image": {
+        "file": "zento-signature.webp",
+        "kind": "source",
+        "sourceUrl": "https://wafuu.com/cdn/shop/files/mitsubishi-pencil-uni-ball-zento-signature-model-pen-05mm-metallic-black-952141_1200x1200.jpg?v=1749106388",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "one-p",
+      "title": "Uni-ball One P gel pen",
+      "category": "Stationery",
+      "variant": "Orange, 0.38 mm",
+      "url": "https://japan-avenue.com/products/uni-ball-one-p-gel-pen-mitsubishi-0-38-mm?currency=GBP&country=GB&variant=50675793920337",
+      "priceGBP": 9,
+      "notes": "Optional extra. Check UK delivery costs.",
+      "priceSource": "https://japan-avenue.com/products/uni-ball-one-p-gel-pen-mitsubishi-0-38-mm?currency=GBP&country=GB&variant=50675793920337",
+      "image": {
+        "file": "one-p.webp",
+        "kind": "source",
+        "sourceUrl": "https://japan-avenue.com/cdn/shop/files/uni-ball-one-p-gel-pen-mitsubishi-0-38-mm-orange-548.jpg?v=1775658057",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "bessey-uk60",
+      "title": "Bessey UniKlamp UK60 clamps",
+      "category": "Workshop",
+      "variant": "600 mm, two-pack",
+      "url": "https://www.toolstoreuk.co.uk/bessey-uk60-uniklamp-uk-600mm80mm-2-pack/p22398",
+      "priceGBP": 42.02,
+      "notes": "Optional extra for building shelves and furniture.",
+      "priceSource": "https://www.toolstoreuk.co.uk/bessey-uk60-uniklamp-uk-600mm80mm-2-pack/p22398",
+      "image": {
+        "file": "bessey-uk60.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.toolstoreuk.co.uk/images/products/large/22398_241951.jpg",
+        "fit": "contain"
+      }
     }
   ]
 }
