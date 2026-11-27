@@ -134,7 +134,7 @@ review.addEventListener('submit', async event => {
     const { item } = await api('/save', {
       url: fields.url.value, title: fields.title.value, category: fields.category.value,
       price: fields.price.value, variant: fields.variant.value, notes: fields.notes.value,
-      suggest: fields.suggest.checked, photo: photo?.preview, photoSource: photo?.sourceUrl
+      suggest: fields.suggest.checked, generated: fields.generated.checked, photo: photo?.preview, photoSource: photo?.sourceUrl
     });
     review.hidden = true;
     lookup.reset();

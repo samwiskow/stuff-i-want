@@ -58,7 +58,7 @@ async function saveItem(form) {
       const extension = photoType(bytes);
       const filename = `${id}-${token.slice(0, 8)}.${extension}`;
       imagePath = urlAt('../assets/images/' + filename);
-      item.image = { file: filename, kind: 'source' };
+      item.image = { file: filename, kind: form.generated === true ? 'generated' : 'source' };
       if (form.photoSource) item.image.sourceUrl = webUrl(form.photoSource).href;
       await writeFile(imagePath, bytes, { flag: 'wx' });
       imageWritten = true;
