@@ -707,6 +707,38 @@
         "sourceUrl": "https://media.distrelec.com/Web/WebShopImages/landscape_large/9-/01/Panasonic-Eneloop-30326039-01.jpg",
         "fit": "contain"
       }
+    },
+    {
+      "title": "Amazon Basics AA rechargeable batteries",
+      "category": "Rechargeable batteries",
+      "variant": "Eight-pack, 2000 mAh, 1.2 V NiMH",
+      "url": "https://www.amazon.co.uk/dp/B00CWNMV4G/",
+      "priceGBP": 9.15,
+      "notes": "A lower-cost alternative to the AA Eneloops. I use these regularly and I’m always happy to get more.",
+      "priceSource": "https://www.amazon.co.uk/dp/B00CWNMV4G/",
+      "id": "amazon-basics-aa-8-pack",
+      "image": {
+        "file": "amazon-basics-aa-8-pack.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/71ChVfC2PUL._AC_SL1209_.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "title": "Amazon Basics AAA rechargeable batteries",
+      "category": "Rechargeable batteries",
+      "variant": "Eight-pack, 800 mAh, 1.2 V NiMH",
+      "url": "https://www.amazon.co.uk/dp/B00CWNMXQW/",
+      "priceGBP": 4.97,
+      "notes": "A lower-cost alternative to the AAA Eneloops. I use these regularly and I’m always happy to get more.",
+      "priceSource": "https://www.amazon.co.uk/dp/B00CWNMXQW/",
+      "id": "amazon-basics-aaa-8-pack",
+      "image": {
+        "file": "amazon-basics-aaa-8-pack.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/81Tgn7OoPEL._AC_SL1500_.jpg",
+        "fit": "contain"
+      }
     }
   ]
 }
