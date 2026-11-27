@@ -367,23 +367,6 @@
       "priceSource": "https://shellystore.co.uk/product/shelly-blu-rc-button-4/"
     },
     {
-      "id": "sonoff-zbminil2",
-      "title": "SONOFF ZBMINIL2 smart relay",
-      "category": "Smart home",
-      "variant": "Single-channel Zigbee, no neutral required",
-      "priceGBP": 10.85,
-      "url": "https://sonoff.tech/en-uk/products/sonoff-zbmini-extreme-zigbee-smart-switch-zbminil2",
-      "notes": "Fits behind an existing light switch. Check the wiring and space first. For two gangs, check the MINI DUO-L.",
-      "suggest": false,
-      "image": {
-        "file": "sonoff-zbminil2.webp",
-        "kind": "source",
-        "sourceUrl": "https://www.zigbee2mqtt.io/images/devices/ZBMINIL2.png",
-        "fit": "contain"
-      },
-      "priceSource": "https://sonoff.tech/en-uk/products/sonoff-zbmini-extreme-zigbee-smart-switch-zbminil2"
-    },
-    {
       "id": "sonoff-snzb-06p24",
       "title": "SONOFF SNZB-06P24 presence sensor",
       "category": "Smart home",
