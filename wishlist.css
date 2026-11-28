@@ -130,8 +130,8 @@ button { cursor: pointer; }
 .feature-card:not(.feature-card--1) h2 { font-size: clamp(1.4rem, 2.1vw, 2rem); }
 .feature-card .product-media--contain img { padding: .36rem; }
 .feature-caption p { margin: .16rem 0 0; color: var(--caption-muted, var(--muted)); font-size: .875rem; }
-.feature-caption a, .product-text a, .suggestion-name a { text-decoration-color: transparent; }
-.feature-caption a:hover, .product-text a:hover, .suggestion-name a:hover {
+.feature-caption a, .product-text h3 a, .suggestion-name a { text-decoration-color: transparent; }
+.feature-caption a:hover, .product-text h3 a:hover, .suggestion-name a:hover {
   text-decoration-color: currentColor;
 }
 .price { color: var(--forest); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
@@ -154,6 +154,7 @@ button { cursor: pointer; }
 }
 .product-text p { margin: .26rem 0 0; }
 .variant, .item-notes { color: var(--muted); font-size: .9rem; }
+.alternate-shop { margin: .26rem 0 0; font-size: .9rem; }
 .price, .results-info { font-size: .89rem; }
 .results-info:not(:empty) { color: var(--muted); margin-block: .1rem -.95rem; }
 .gift-suggestion { overflow-wrap: anywhere; }

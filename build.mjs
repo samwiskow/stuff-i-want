@@ -47,6 +47,7 @@ function featuredCard(item, index) {
 
 function shelfCard(item) {
   const values = item.amountsGBP || (item.priceGBP == null ? [] : [item.priceGBP]);
+  const shop = item.alternateShop;
   return `<article class="product-card" data-prices="${values.join(',')}" data-flexible="${Boolean(item.amountsGBP)}" data-suggest="${item.suggest !== false}">
     ${image(item)}
     <div class="product-text">
@@ -54,6 +55,7 @@ function shelfCard(item) {
       ${item.variant ? `<p class="variant">${escape(item.variant)}</p>` : ''}
       ${item.notes ? `<p class="item-notes">${escape(item.notes)}</p>` : ''}
       ${price(item) ? `<p class="price">${escape(price(item))}</p>` : ''}
+      ${shop ? `<p class="alternate-shop">Also at <a href="${escape(shop.url)}">${escape(shop.name)}</a></p>` : ''}
     </div>
   </article>`;
 }
