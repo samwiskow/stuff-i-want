@@ -97,6 +97,8 @@
     amount.className = 'price';
     amount.textContent = (pick.card.flexible ? '' : 'About ') + format.format(Math.min(...pick.prices));
     detail.append(title, name, amount);
+    const alternateShop = pick.card.element.querySelector('.alternate-shop');
+    if (alternateShop) detail.append(alternateShop.cloneNode(true));
     suggestion.replaceChildren(...(media ? [media, detail] : [detail]));
   });
 
