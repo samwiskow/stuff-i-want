@@ -358,10 +358,26 @@
       }
     },
     {
+      "id": "casio-a168-ring-watch",
+      "title": "Casio A168 ring watch",
+      "category": "Gadgets & everyday carry",
+      "variant": "My first choice is the classic A168 in either silver or gold. I’d like one ring watch.",
+      "notes": "The silver CRW-002D-1A is £115. The gold CRW-002G-9A is £135.",
+      "url": "https://www.casio.com/uk/watches/casio/casio-ring-watch/crw-002/",
+      "priceGBP": 115,
+      "priceSource": "https://www.casio.com/uk/watches/casio/product.CRW-002D-1A/",
+      "image": {
+        "file": "casio-a168-ring-watches.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.casio.com/uk/watches/casio/casio-ring-watch/crw-002/",
+        "fit": "contain"
+      }
+    },
+    {
       "id": "g-shock-nano-dwn-5600-9",
       "title": "G-SHOCK Nano DWN-5600-9 ring watch",
       "category": "Gadgets & everyday carry",
-      "variant": "Any colour is welcome. The photo and prices are for the yellow model.",
+      "variant": "My second choice after the Casio A168. I especially like the yellow Nano, but other Nano colours are welcome too.",
       "notes": "Casio UK listed the yellow model at £79.90 and showed it as sold out on 28 November 2026.",
       "url": "https://www.citywatches.co.uk/products/casio-g-shock-nano-digital-yellow-bio-based-resin-strap-quartz-dwn-5600-9-200m-unisex-watch",
       "alternateShop": {
