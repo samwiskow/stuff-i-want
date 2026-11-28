@@ -138,6 +138,19 @@
       "priceSource": "https://nextlevelracing.com/en-gb/products/rc-f-racing-cockpit-foldable/"
     },
     {
+      "id": "manyaspace-cynus",
+      "title": "ManyaSpace Cynus portable chess robot",
+      "category": "Gaming",
+      "notes": "The robot moves the pieces with a magnetic arm. The board folds into a carry case.",
+      "url": "https://www.manyaspace.com/products/portable-ai-chess-robot-white-copy",
+      "image": {
+        "file": "manyaspace-cynus.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.manyaspace.com/cdn/shop/files/gray_cynus.png?v=1779854229&width=900",
+        "fit": "contain"
+      }
+    },
+    {
       "title": "Quince T-shirts",
       "category": "Clothing",
       "referenceUrl": "https://www.quince.com/uk/shop/men/tees/cotton-tees?filters=materials_cotton",
@@ -436,6 +449,20 @@
         "fit": "contain"
       },
       "priceSource": "https://www.reflectionframe.com/products/reflection-frame-white"
+    },
+    {
+      "id": "vidabay-photo-magnet",
+      "title": "VidaBay E Ink photo fridge magnet",
+      "category": "Desk & tech",
+      "variant": "White, single frame",
+      "notes": "Tap a compatible iPhone against the frame to change the photo. The frame needs no battery.",
+      "url": "https://www.amazon.co.uk/dp/B0FX41KPKK?tag=snazzy-21&geniuslink=true",
+      "image": {
+        "file": "vidabay-photo-magnet.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/61SqHBiYODL._AC_SL1280_.jpg",
+        "fit": "contain"
+      }
     },
     {
       "id": "switchbot-ai-art-frame-2",
