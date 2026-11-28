@@ -868,6 +868,38 @@
         "kind": "source",
         "sourceUrl": "https://joy-of-living.uk/cdn/shop/files/Bic-Lamp-Lifestyle-4_300x_jpg_6be8d01c-4b28-427f-888d-f655069dce81.avif?v=1787824210&width=300"
       }
+    },
+    {
+      "id": "wio-tracker-l1",
+      "title": "Wio Tracker L1 development board",
+      "category": "Things I think my dad would like",
+      "variant": "Meshtastic board with GPS and a 1.3-inch OLED display",
+      "url": "https://www.amazon.co.uk/dp/B0GTZ8PQSM?tag=snazzy-21&geniuslink=true",
+      "priceGBP": 44.58,
+      "priceSource": "https://www.amazon.co.uk/dp/B0GTZ8PQSM",
+      "suggest": false,
+      "image": {
+        "file": "wio-tracker-l1.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/71PyK9b8fTL._AC_SX679_.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "werewolf-vflex-starter-kit-lite",
+      "title": "Werewolf VFLEX Starter Kit Lite",
+      "category": "Things I think my dad would like",
+      "variant": "Three USB-C power adapters and eight DC barrel cables",
+      "url": "https://werewolf.us/collections/werewolf-products/products/vflex-starter-kit",
+      "priceGBP": 38,
+      "priceSource": "https://werewolf.us/collections/werewolf-products/products/vflex-starter-kit",
+      "suggest": false,
+      "image": {
+        "file": "werewolf-vflex-starter-kit-lite.webp",
+        "kind": "source",
+        "sourceUrl": "https://werewolf.us/cdn/shop/files/P1010324.jpg?v=1788193776&width=840",
+        "fit": "contain"
+      }
     }
   ]
 }
