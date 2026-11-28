@@ -143,6 +143,8 @@
       "category": "Gaming",
       "notes": "The robot moves the pieces with a magnetic arm. The board folds into a carry case.",
       "url": "https://www.manyaspace.com/products/portable-ai-chess-robot-white-copy",
+      "priceGBP": 249,
+      "priceSource": "https://www.manyaspace.com/products/portable-ai-chess-robot-white-copy",
       "image": {
         "file": "manyaspace-cynus.webp",
         "kind": "source",
@@ -455,8 +457,11 @@
       "title": "VidaBay E Ink photo fridge magnet",
       "category": "Desk & tech",
       "variant": "White, single frame",
-      "notes": "Tap a compatible iPhone against the frame to change the photo. The frame needs no battery.",
-      "url": "https://www.amazon.co.uk/dp/B0FX41KPKK?tag=snazzy-21&geniuslink=true",
+      "notes": "Tap a compatible iPhone against the frame to change the photo. The frame needs no battery. VidaBay ships to the UK and charges US$28.49. The price in pounds is an estimate before any fees.",
+      "url": "https://vidabay.net/product/white-e-paper-fridge-sticker/",
+      "referenceUrl": "https://www.amazon.co.uk/dp/B0FX41KPKK?tag=snazzy-21&geniuslink=true",
+      "priceGBP": 22,
+      "priceSource": "https://vidabay.net/product/white-e-paper-fridge-sticker/",
       "image": {
         "file": "vidabay-photo-magnet.webp",
         "kind": "source",
