@@ -358,6 +358,21 @@
       }
     },
     {
+      "id": "flextail-zero-pump-2",
+      "title": "Flextail Zero Pump 2",
+      "category": "Gadgets & everyday carry",
+      "variant": "Sleeping mat pump with the 900 mAh rechargeable battery",
+      "url": "https://www.aliexpress.com/item/1005012258471834.html?gatewayAdapt=usa2glo4itemAdapt",
+      "priceGBP": 37.4,
+      "priceSource": "https://www.tanwaoutdoor.co.uk/products/flextail-zero-pump-2-with-900cht-battery",
+      "image": {
+        "file": "flextail-zero-pump-2.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.tanwaoutdoor.co.uk/cdn/shop/files/1935_1x_e282aa47-f0b5-4b0d-ac54-bba744d6cbf8.webp?v=1790169052&width=1346",
+        "fit": "contain"
+      }
+    },
+    {
       "id": "nitecore-edc37",
       "title": "Nitecore EDC37 torch",
       "category": "Gadgets & everyday carry",
@@ -451,6 +466,37 @@
         "fit": "contain"
       },
       "priceSource": "https://www.reflectionframe.com/products/reflection-frame-white"
+    },
+    {
+      "id": "ugreen-nexode-air-100w",
+      "title": "UGREEN Nexode Air 100W charger",
+      "category": "Desk & tech",
+      "variant": "Foldable UK plug, two USB-C ports and one USB-A port",
+      "notes": "Amazon UK listed a Prime price of £39.99 on 28 November 2026.",
+      "url": "https://www.amazon.co.uk/dp/B0G651TWX4",
+      "priceGBP": 59.99,
+      "priceSource": "https://www.amazon.co.uk/dp/B0G651TWX4",
+      "image": {
+        "file": "ugreen-nexode-air-100w.webp",
+        "kind": "source",
+        "sourceUrl": "https://m.media-amazon.com/images/I/61bYWDO0hvL._AC_SY879_.jpg",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "m5stick-s3",
+      "title": "M5Stack M5StickS3 mini IoT development kit",
+      "category": "Desk & tech",
+      "variant": "ESP32-S3, model K150",
+      "url": "https://www.aliexpress.com/item/1005012324262168.html?gatewayAdapt=usa2glo4itemAdapt",
+      "priceGBP": 19.7,
+      "priceSource": "https://thepihut.com/products/m5sticks3-esp32s3-mini-iot-dev-kit",
+      "image": {
+        "file": "m5stick-s3.webp",
+        "kind": "source",
+        "sourceUrl": "https://thepihut.com/cdn/shop/files/m5sticks3-esp32s3-mini-iot-dev-kit-m5stack-k150-1219603311.jpg?v=1770397090&width=2048",
+        "fit": "contain"
+      }
     },
     {
       "id": "vidabay-photo-magnet",
@@ -800,6 +846,21 @@
         "file": "red-rising.webp",
         "kind": "source",
         "sourceUrl": "https://images-eu.bookshop.org/images/9781444758993.jpg?v=9579404dc0586d59c9b7b89a14859eda&width=600",
+        "fit": "contain"
+      }
+    },
+    {
+      "id": "miniware-es15s",
+      "title": "Miniware ES15S electric screwdriver",
+      "category": "Workshop",
+      "variant": "Motion control, rechargeable by USB-C",
+      "url": "https://www.aliexpress.com/item/1005007641505159.html?gatewayAdapt=usa2glo4itemAdapt",
+      "priceGBP": 77.5,
+      "priceSource": "https://www.hobbyrc.co.uk/miniware-es15s-electric-screwdriver",
+      "image": {
+        "file": "miniware-es15s.webp",
+        "kind": "source",
+        "sourceUrl": "https://www.hobbyrc.co.uk/images/thumbs/0020022_miniware-es15s-electric-screwdriver_550.jpeg",
         "fit": "contain"
       }
     },
